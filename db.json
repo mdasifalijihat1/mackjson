@@ -1,0 +1,268 @@
+{
+        "id": "1",
+        "brand_name": "Bata",
+        "rating": 4.5,
+        "description": "This is a sample description.",
+        "brand_logo": "https://i.ibb.co.com/wydjQt5/https-substack-post-media-s3-amazonaws-com-public-images-c7a5fbfb-bb7f-40f3-a179-21fead60b632-1000x1.jpg",
+        "coupons": [
+          {
+            "coupon_code": "SAVE50",
+            "description": "50% on",
+            "expiry_date": "2024-12-31",
+            "condition": "Minimum purchase $100",
+            "coupon_type": "Discount"
+          }
+        ],
+        "shop_link": "https://brand-a.com",
+        "category": "Electronics",
+        "isSaleOn": true
+      },
+
+     {
+          "id": "2",
+          "brand_name": "Walton",
+          "rating": 4.3,
+          "description": "Affordable electronics with premium features.",
+          "brand_logo": "https://i.ibb.co.com/TkxxVm5/7.jpg",
+          "coupons": [
+            {
+              "coupon_code": "WALTON10",
+              "description": "10% off on all electronics",
+              "expiry_date": "2024-12-31",
+              "condition": "No minimum purchase",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://walton.com",
+          "category": "Electronics",
+          "isSaleOn": true
+        },
+        {
+          "id": "3",
+          "brand_name": "Rang",
+          "rating": 4.2,
+          "description": "Traditional and modern fashion wear.",
+          "brand_logo": "https://i.ibb.co.com/7SBgQ3q/logo-rangde.jpg",
+          "coupons": [
+            {
+              "coupon_code": "RANG15",
+              "description": "15% off on all fashion items",
+              "expiry_date": "2024-11-30",
+              "condition": "Minimum purchase $50",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://rangbd.com",
+          "category": "Fashion",
+          "isSaleOn": false
+        },
+        {
+          "id": "4",
+          "brand_name": "Grameenphone",
+          "rating": 4.7,
+          "description": "Leading telecom provider in Bangladesh.",
+          "brand_logo": "https://i.ibb.co.com/pQd679M/graamiinnphon.png",
+          "coupons": [
+            {
+              "coupon_code": "GP25",
+              "description": "25% off on data packs",
+              "expiry_date": "2024-12-15",
+              "condition": "Selected packs only",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://grameenphone.com",
+          "category": "Telecom",
+          "isSaleOn": true
+        },
+        {
+          "id": "5",
+          "brand_name": "Daraz",
+          "rating": 4.4,
+          "description": "Largest online marketplace in Bangladesh.",
+          "brand_logo": "https://i.ibb.co.com/9W3xJKp/daraz-new-logo.webp",
+          "coupons": [
+            {
+              "coupon_code": "DARAZ50",
+              "description": "Up to 50% off on selected items",
+              "expiry_date": "2024-12-31",
+              "condition": "Applies to selected items only",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://daraz.com.bd",
+          "category": "E-commerce",
+          "isSaleOn": true
+        },
+        {
+          "id": "6",
+          "brand_name": "RFL",
+          "rating": 4.1,
+          "description": "Quality household products for daily use.",
+          "brand_logo": "https://i.ibb.co.com/Lz6q4ST/4f0e6718b2e5d4ea9a971844444e8d6f-icon.png",
+          "coupons": [
+            {
+              "coupon_code": "RFL20",
+              "description": "20% off on furniture",
+              "expiry_date": "2024-11-30",
+              "condition": "Minimum purchase $200",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://rflbd.com",
+          "category": "Household",
+          "isSaleOn": false
+        },
+        {
+          "id": "7",
+          "brand_name": "Kay Kraft",
+          "rating": 4.3,
+          "description": "Trendy and cultural clothing brand.",
+          "brand_logo": "https://i.ibb.co.com/qyp6F16/Mirpur-Outlet.jpg",
+          "coupons": [
+            {
+              "coupon_code": "KRAFT10",
+              "description": "10% off on new arrivals",
+              "expiry_date": "2024-10-31",
+              "condition": "Valid on clothing items",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://kaykraft.com",
+          "category": "Fashion",
+          "isSaleOn": true
+        },
+        {
+          "id": "8",
+          "brand_name": "Meena Bazaar",
+          "rating": 4.5,
+          "description": "Premium grocery shopping experience.",
+          "brand_logo": "https://i.ibb.co.com/mD1vgZx/images-q-tbn-ANd9-Gc-Rr-PQWdoab-Wuo-IFry8-YQol-Icg0-MTUSi1-CH-FGTPODWu-Yz9-Rq-WAFtx-Vr-Rrh-GB0xla-Dl.png",
+          "coupons": [
+            {
+              "coupon_code": "MEENA5",
+              "description": "5% off on orders above $20",
+              "expiry_date": "2024-09-30",
+              "condition": "Groceries only",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://meenabazar.com",
+          "category": "Grocery",
+          "isSaleOn": false
+        },
+        {
+          "id": "9",
+          "brand_name": "Arong",
+          "rating": 4.8,
+          "description": "A fair trade organization promoting Bangladeshi crafts.",
+          "brand_logo": "https://i.ibb.co.com/dM1xKbC/9f54f1209243193-Y3-Jvc-Cwx-Nj-M3-LDEy-ODEs-Mz-Yw-LDA.jpg",
+          "coupons": [
+            {
+              "coupon_code": "ARONG30",
+              "description": "30% off on handmade items",
+              "expiry_date": "2024-08-31",
+              "condition": "Valid on crafts and pottery",
+              "coupon_type": "Discount"
+            }
+          ],
+          "shop_link": "https://arong.com",
+          "category": "Lifestyle",
+          "isSaleOn": true
+        },
+        {
+            "id": "10",
+            "brand_name": "Samsung", 
+            "rating": 4.7,
+            "description": "Samsung is a global leader in technology and innovation.",
+            "brand_logo": "https://i.ibb.co.com/Jm7NVzk/samsung-brand-logo-phone-symbol-blue-and-white-vector-46231866.jpg",
+            "coupons": [
+              {
+                "coupon_code": "SAMSUNG20",
+                "description": "20% off",
+                "expiry_date": "2024-12-31",
+                "condition": "Minimum purchase $200",
+                "coupon_type": "Discount"
+              }
+            ],
+            "shop_link": "https://www.samsung.com",
+            "category": "Electronics",
+            "isSaleOn": true
+          },
+          {
+            "id": "11",
+            "brand_name": "iPhone",
+            "rating": 4.8,
+            "description": "Experience cutting-edge technology with iPhone.",
+            "brand_logo": "https://i.ibb.co.com/BCtdKTL/i-Phone-Emblem.png",
+            "coupons": [
+              {
+                "coupon_code": "IPHONE10",
+                "description": "10% off on iPhone 15",
+                "expiry_date": "2024-12-31",
+                "condition": "Applicable on selected models",
+                "coupon_type": "Discount"
+              }
+            ],
+            "shop_link": "https://apple.com",
+            "category": "Smartphones",
+            "isSaleOn": true
+          },
+          {
+            "id": "12",
+            "brand_name": "Realme",
+            "rating": 4.3,
+            "description": "Innovative smartphones for everyone.",
+            "brand_logo": "https://i.ibb.co.com/W31RhBC/realme-logo-n450ehbz1j0dhet8.jpg",
+            "coupons": [
+              {
+                "coupon_code": "REALME20",
+                "description": "20% off on Realme Narzo series",
+                "expiry_date": "2024-12-31",
+                "condition": "Minimum purchase $150",
+                "coupon_type": "Discount"
+              }
+            ],
+            "shop_link": "https://realme.com",
+            "category": "Smartphones",
+            "isSaleOn": true
+          },
+          {
+            "id": "13",
+            "brand_name": "Apex",
+            "rating": 4.7,
+            "description": "High-quality products with excellent durability.",
+            "brand_logo": "https://i.ibb.co.com/BwWqKV5/apex-shoes-logo-D0480-BCBDE-seeklogo-com.png",
+            "coupons": [
+              {
+                "coupon_code": "APEX20",
+                "description": "20% off on new arrivals",
+                "expiry_date": "2024-11-30",
+                "condition": "No minimum purchase",
+                "coupon_type": "Discount"
+              }
+            ],
+            "shop_link": "https://apex.com",
+            "category": "Footwear",
+            "isSaleOn": true
+          },
+          {
+            "id": "12",
+            "brand_name": "Loto",
+            "rating": 4.2,
+            "description": "Affordable and stylish options for every occasion.",
+            "brand_logo": "https://i.ibb.co.com/dGZrp2R/905-lotto.jpg",
+            "coupons": [
+              {
+                "coupon_code": "LOTO25",
+                "description": "25% off on selected items",
+                "expiry_date": "2024-12-15",
+                "condition": "Minimum purchase $50",
+                "coupon_type": "Discount"
+              }
+            ],
+            "shop_link": "https://loto.com",
+            "category": "Fashion",
+            "isSaleOn": false
+          }
+      
